@@ -18,7 +18,7 @@ Este repositorio contiene los certificados obtenidos durante mi formación acad�
 | 2024 | CCNA: Switching, Routing and Wireless Essentials | Cisco | [Ver PDF](./2024%20Certificado%20Cisco%20CCNA-_Switching-_Routing-_and_Wireless_Essentials_9318b32d-7e28-43fb-8c96-a6fad00f8602.pdf) |
 | 2024 | SQL Intermediate | SoloLearn | [Ver PDF](./2024%20Certificado%20Solo%20Learn%20SQL%20Intermediate.pdf) |
 | 2025 | Desarrollador Front-end | Capacítate para el empleo | [Ver PDF](./2025%20Certificado%20Capac%C3%ADtate%20para%20el%20empleo%20Desarrollador%20Front-end.pdf) |
-| 2025 | Gestión de Amenazas Cibernéticasw | Cisco | [Ver PDF](./2025%20Certificado%20Cisco%20Gestión%20de%20Amenazas%20Cibernéticas_07a25d09-934a-4aa1-ad14-de08aba44e23.pdf) |
+| 2025 | Gestión de Amenazas Cibernéticas | Cisco | [Ver PDF](./2025%20Certificado%20Cisco%20Gestión%20de%20Amenazas%20Cibernéticas_07a25d09-934a-4aa1-ad14-de08aba44e23.pdf) |
 | 2025 | Introducción a la Ciberseguridad | Cisco | [Ver PDF](./2025%20Certificado%20Cisco%20Introducci%C3%B3n%20a%20la%20Ciberseguridad_14ceee24-f629-4fb3-a837-c1205ecdb844.pdf) |
 
 ---
