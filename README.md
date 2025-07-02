@@ -8,7 +8,7 @@ Este repositorio contiene los certificados obtenidos durante mi formación acad�
 
 | Año | Curso | Plataforma | Archivo |
 |-----|-------|------------|---------|
-| 2021 | Tu Futuro Financiero | Desconocida | [Ver PDF](./2021%20Certificado%20Tu%20Futuro%20Financiero.pdf) |
+| 2021 | Tu Futuro Financiero | Tu futuro financiero | [Ver PDF](./2021%20Certificado%20Tu%20Futuro%20Financiero.pdf) |
 | 2022 | Introducción a la programación | Capacítate para el empleo | [Ver PDF](./2022%20Certificado%20Capac%C3%ADtate%20para%20el%20empleo%20curso%20Introducci%C3%B3n%20a%20la%20programaci%C3%B3n.pdf) |
 | 2022 | Herramientas digitales básicas para la empleabilidad | MéxicoX | [Ver PDF](./2022%20Certificado%20M%C3%A9xicoX%20Herramientas%20digitales%20b%C3%A1sicas%20para%20la%20empleabilidad.pdf) |
 | 2023 | Programador (orientado a objetos) | Capacítate para el empleo | [Ver PDF](./2023%20Certificado%20Capac%C3%ADtate%20para%20el%20empleo%20Programador%20%28orientado%20a%20objetos%29.pdf) |
